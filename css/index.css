@@ -1,0 +1,11 @@
+.dis1 {
+    height: 500px;
+    width: 400px;
+    overflow: hidden;
+    position: relative;
+}
+
+.dis2 {
+    position: absolute;
+    width: 400px;
+}
